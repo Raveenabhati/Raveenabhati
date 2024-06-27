@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning BCA(science)
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
 - 😄 Pronouns: .mrs.raveena
 
 <!---
